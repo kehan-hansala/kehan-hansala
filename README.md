@@ -1,14 +1,14 @@
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [kehan Hansala] 👋
 
-Welcome to my GitHub profile! I’m a **[Your Role/Profession]** passionate about [your interests, e.g., "building innovative tech solutions" or "creating amazing user experiences"]. Let's make the web a better place! 🚀
+Welcome to my GitHub profile! I’m a **[Fullstack Developer]** passionate about [Build Some Creative one]. Let's make the web a better place! 🚀
 
 ## 🌟 About Me
 
-- 🎓 I’m a [Degree/Role] from [Your University or Job] (optional)
-- 🌱 I’m currently learning [Technology, Tool, or Skill]
-- 🔭 I’m working on [Current Project Name] 📂
-- 📝 **[Fun fact about yourself or something quirky]**
+- 🎓 I’m a [Data Science] from [Sabaragamuwa Univercity] (optional)
+- 🌱 I’m currently learning [Fullsatack Technology]
+- 🔭 I’m working on [Fiver] 📂
+- 📝 **[If it work Don't Touch IT]**
 
 ## 📊 My GitHub Stats (Animated!)
 
@@ -43,9 +43,9 @@ Check out my dynamic stats, achievements, and skills!
 ## 🧠 Learning and Growth
 
 - 🌱 **Current Learning Goals**:
-  - [Technology 1]
-  - [Technology 2]
-  - [Technology 3]
+  - [Data Science]
+  - [ML]
+  - [Neural Networks]
 
 ---
 
@@ -64,12 +64,7 @@ Here are some fun things I've been working on or like to share:
 ---
 
 ## 📚 Latest Blog Posts
-I occasionally write about tech topics. Check them out here:
-
-- [Title of your blog post](Link to blog post)
-- [Another Blog Post](Link to blog post)
-- [Tech Guide/Article](Link to blog post)
-
+I Soon ...
 ---
 
 ## 🌱 GitHub Actions and Badges

@@ -38,7 +38,7 @@ Feel free to reach out or follow me on these platforms! 😄
 
 Check out my dynamic stats, achievements, and skills!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&langs_count=10&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[kehan-hansala]&langs_count=10&theme=gruvbox)
 
 ## 🧠 Learning and Growth
 
@@ -52,14 +52,14 @@ Check out my dynamic stats, achievements, and skills!
 ## 💬 Let's Talk!
 I’m always open to new ideas, collaboration, and discussions about [topics you're interested in, e.g., "Machine Learning", "Web Development", "Blockchain"]. Drop me a message!
 
-[![HitCount](http://hits.dwyl.com/[YourUsername]/[YourRepo].svg)](http://hits.dwyl.com/[YourUsername]/[YourRepo])
+[![HitCount](http://hits.dwyl.com/[YourUsername]/[YourRepo].svg)](http://hits.dwyl.com/kehan-hansala/[YourRepo])
 
 ---
 
 ## 🎥 Animation & Fun Stuff
 Here are some fun things I've been working on or like to share:
 
-![Dynamic GIF](https://media.giphy.com/media/[your_gif_link_here]/giphy.gif)
+![Dynamic GIF](https://media.giphy.com/media/https://th.bing.com/th/id/R.28020003d4a493c78d8202ba6c35f179?rik=waJ%2bD2KT87ApYA&pid=ImgRaw&r=0/giphy.gif)
 
 ---
 

@@ -5,14 +5,14 @@ Welcome to my GitHub profile! I’m a **[Fullstack Developer]** passionate about
 
 ## 🌟 About Me
 
-- 🎓 I’m a [Data Science] from [Sabaragamuwa Univercity] (optional)
+- 🎓 I’m a [Data Science] from [Sabaragamuwa Univercity]
 - 🌱 I’m currently learning [Fullsatack Technology]
 - 🔭 I’m working on [Fiver] 📂
 - 📝 **[If it work Don't Touch IT]**
 
 ## 📊 My GitHub Stats (Animated!)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&include_all_commits=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=kehan-hansala&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&include_all_commits=true)
 
 ### 🛠️ Technologies & Tools
 

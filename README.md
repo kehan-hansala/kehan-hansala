@@ -1,16 +1,16 @@
 
-# Hi, I'm [kehan Hansala] 👋
+# Hi, I'm kehan Hansala 👋
 
-Welcome to my GitHub profile! I’m a **[Fullstack Developer]** passionate about [Build Some Creative one]. Let's make the web a better place! 🚀
+Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about Build Some Creative one. Let's make the web a better place! 🚀
 
 ## 🌟 About Me
 
-- 🎓 I’m a [Data Science] from [Sabaragamuwa Univercity]
-- 🌱 I’m currently learning [Fullsatack Technology]
-- 🔭 I’m working on [Fiver] 📂
-- 📝 **[If it work Don't Touch IT]**
+- 🎓 I’m a Data Science from Sabaragamuwa Univercity
+- 🌱 I’m currently learning Fullsatack Technology
+- 🔭 I’m working on Fiver 📂
+- 📝 **If it work Don't Touch IT**
 
-## 📊 My GitHub Stats (Animated!)
+## 📊 My GitHub Stats
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=kehan-hansala&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&include_all_commits=true)
 
@@ -34,7 +34,7 @@ Feel free to reach out or follow me on these platforms! 😄
 [![Twitter](https://img.shields.io/badge/Twitter-[YourTwitterUsername]-blue?style=social&logo=twitter)](https://twitter.com/[YourTwitterUsername])
 [![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=social&logo=gmail)](mailto:your.email@example.com)
 
-## 🎮 Fun with Stats (Dynamic Charts)
+## 🎮 Fun with Stats Dynamic Charts
 
 Check out my dynamic stats, achievements, and skills!
 

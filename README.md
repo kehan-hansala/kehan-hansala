@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 ## 🌟 About Me
 
-- 🎓 I’m a Data Science from Sabaragamuwa Univercity
-- 🌱 I’m currently learning Fullsatack Technology
-- 🔭 I’m working on Fiver 📂
+- 🎓  computer science from vauniya Univercity
+- 🌱  currently learning Fullsatack Technology
+- 🔭  working on Fiver 📂
 - 📝 **If it work Don't Touch IT**
 
 ## 📊 My GitHub Stats

@@ -43,34 +43,25 @@ Check out my dynamic stats, achievements, and skills!
 ## 🧠 Learning and Growth
 
 - 🌱 **Current Learning Goals**:
-  - [Data Science]
-  - [ML]
-  - [Neural Networks]
+  - Data Science
+  - ML
+  - Neural Networks
 
 ---
 
 ## 💬 Let's Talk!
 I’m always open to new ideas, collaboration, and discussions about [topics you're interested in, e.g., "Machine Learning", "Web Development", "Blockchain"]. Drop me a message!
 
-[![HitCount](http://hits.dwyl.com/[YourUsername]/[YourRepo].svg)](http://hits.dwyl.com/kehan-hansala/[YourRepo])
+[![HitCount](http://hits.dwyl.com/kehan-hansala/[YourRepo].svg)](http://hits.dwyl.com/kehan-hansala/[YourRepo])
 
 ---
 
-## 🎥 Animation & Fun Stuff
-Here are some fun things I've been working on or like to share:
 
-![Dynamic GIF](https://media.giphy.com/media/https://th.bing.com/th/id/R.28020003d4a493c78d8202ba6c35f179?rik=waJ%2bD2KT87ApYA&pid=ImgRaw&r=0/giphy.gif)
-
----
-
-## 📚 Latest Blog Posts
-I Soon ...
----
 
 ## 🌱 GitHub Actions and Badges
 
 Here are some additional elements I use in my projects and actions:
 
-![Action Badge](https://img.shields.io/github/workflow/status/[YourUsername]/[YourRepo]/CI?label=CI%20Status&style=for-the-badge)
-![Build Status](https://img.shields.io/github/workflow/status/[YourUsername]/[YourRepo]/Build?label=Build%20Status&style=for-the-badge)
+![Action Badge](https://img.shields.io/github/workflow/status/kehan-hansala/[YourRepo]/CI?label=CI%20Status&style=for-the-badge)
+![Build Status](https://img.shields.io/github/workflow/status/kehan-hansala/[YourRepo]/Build?label=Build%20Status&style=for-the-badge)
 

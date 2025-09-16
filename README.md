@@ -38,7 +38,7 @@ Feel free to reach out or follow me on these platforms! 😄
 
 Check out my dynamic stats, achievements, and skills!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[kehan-hansala]&langs_count=10&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&langs_count=10&theme=gruvbox)
 
 ## 🧠 Learning and Growth
 

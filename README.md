@@ -49,19 +49,8 @@ Check out my dynamic stats, achievements, and skills!
 
 ---
 
-## 💬 Let's Talk!
-I’m always open to new ideas, collaboration, and discussions about [topics you're interested in, e.g., "Machine Learning", "Web Development", "Blockchain"]. Drop me a message!
-
-[![HitCount](http://hits.dwyl.com/kehan-hansala/[YourRepo].svg)](http://hits.dwyl.com/kehan-hansala/[YourRepo])
-
----
-
 
 
 ## 🌱 GitHub Actions and Badges
 
-Here are some additional elements I use in my projects and actions:
-
-![Action Badge](https://img.shields.io/github/workflow/status/kehan-hansala/[YourRepo]/CI?label=CI%20Status&style=for-the-badge)
-![Build Status](https://img.shields.io/github/workflow/status/kehan-hansala/[YourRepo]/Build?label=Build%20Status&style=for-the-badge)
 

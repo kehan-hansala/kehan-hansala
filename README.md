@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 ## 🌟 About Me
 
-- 🎓  computer science from vauniya University
+- 🎓  computer science from vauniya Univercity
 - 🌱  currently learning Fullsatack Technology
 - 🔭  working on Fiver 📂
 - 📝 **If it work Don't Touch IT**
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 I work with various programming languages and tools. Here's what I love using:
 
-![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker)
+![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,sql)
 
 ## 📈 GitHub Activity
 
@@ -32,7 +32,7 @@ Feel free to reach out or follow me on these platforms! 😄
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInUsername]-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/[YourLinkedInUsername])
 [![Twitter](https://img.shields.io/badge/Twitter-[YourTwitterUsername]-blue?style=social&logo=twitter)](https://twitter.com/[YourTwitterUsername])
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=social&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-your.kehanjayaweera@gmail.com-red?style=social&logo=gmail)](mailto:your.email@example.com)
 
 ## 🎮 Fun with Stats Dynamic Charts
 

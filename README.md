@@ -32,7 +32,7 @@ Feel free to reach out or follow me on these platforms! 😄
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInUsername]-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/[YourLinkedInUsername])
 [![Twitter](https://img.shields.io/badge/Twitter-[YourTwitterUsername]-blue?style=social&logo=twitter)](https://twitter.com/[YourTwitterUsername])
-[![Email](https://img.shields.io/badge/Email-your.kehanjayaweera@gmail.com-red?style=social&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-kehanjayaweera@gmail.com-red?style=social&logo=gmail)](mailto:your.email@example.com)
 
 ## 🎮 Fun with Stats Dynamic Charts
 

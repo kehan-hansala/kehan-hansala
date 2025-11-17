@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about Build Some Creative one. Let's make the web a better place! 🚀
 
-## 🌟 About Me
+# 🌟 About Me
 
 - 🎓  computer science from vauniya Univercity
 - 🌱  currently learning Fullsatack Technology

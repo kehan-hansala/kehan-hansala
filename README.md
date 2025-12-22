@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 I work with various programming languages and tools. Here's what I love using:
 
-![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,mysql,mongodb,java)
+![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,mysql,mongodb,java,springBoot)
 
 ## 📈 GitHub Activity
 
@@ -30,7 +30,7 @@ I work with various programming languages and tools. Here's what I love using:
 ## 🌍 Let's Connect!
 Feel free to reach out or follow me on these platforms! 😄
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInUsername]-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/[YourLinkedInUsername])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[kehanHansala]-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/[YourLinkedInUsername])
 [![Twitter](https://img.shields.io/badge/Twitter-[YourTwitterUsername]-blue?style=social&logo=twitter)](https://twitter.com/[YourTwitterUsername])
 [![Email](https://img.shields.io/badge/Email-kehanjayaweera@gmail.com-red?style=social&logo=gmail)](mailto:your.email@example.com)
 

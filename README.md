@@ -40,8 +40,8 @@ Check out my dynamic stats, achievements, and skills!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&langs_count=10&theme=gruvbox)
 
 ## 🌍 Most used languages
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
+
 
 ## 🌍 Commits
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kehan-hansala&theme=github_dark&utcOffset=5.5" alt="Productive Time" />

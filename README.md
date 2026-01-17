@@ -11,8 +11,6 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 - 📝 **If it work Don't Touch IT**
 
 ## 📊 My GitHub Stats
-
-[![kehan's GitHub stats]
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
 
 ### 🛠️ Technologies & Tools

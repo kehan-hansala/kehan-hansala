@@ -29,7 +29,7 @@ I work with various programming languages and tools. Here's what I love using:
 ## 🌍 Let's Connect!
 Feel free to reach out or follow me on these platforms! 😄
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[kehanHansala]-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/[YourLinkedInUsername])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kehanjayaweera@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-[YourTwitterUsername]-blue?style=social&logo=twitter)](https://twitter.com/[YourTwitterUsername])
 [![Email](https://img.shields.io/badge/Email-kehanjayaweera@gmail.com-red?style=social&logo=gmail)](mailto:your.email@example.com)
 

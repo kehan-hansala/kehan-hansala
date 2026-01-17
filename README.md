@@ -48,29 +48,16 @@ Check out my dynamic stats, achievements, and skills!
 <!-- GitHub Profile Summary Cards -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kehan-hansala&theme=github_dark)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kehan-hansala&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=kehan-hansala&theme=dark)
 
-## 🛠️ Technologies & Tools
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kehan-hansala&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
 
-<div align="center">
 
 
 

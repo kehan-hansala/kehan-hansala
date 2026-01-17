@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 ## 📊 My GitHub Stats
 
-[![kehan's GitHub stats]<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
+[![kehan's GitHub stats]
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
 
 ### 🛠️ Technologies & Tools
 
@@ -44,6 +45,7 @@ Check out my dynamic stats, achievements, and skills!
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
 
+## 🌍 Commits
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kehan-hansala&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 
 

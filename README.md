@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 ## 📊 My GitHub Stats
 
-[![kehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kehan-hansala)](https://github.com/kehan-hansala/github-readme-stats)
+[![kehan's GitHub stats]<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
 
 ### 🛠️ Technologies & Tools
 
@@ -40,20 +40,10 @@ Check out my dynamic stats, achievements, and skills!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&langs_count=10&theme=gruvbox)
 
-<!-- Shields.io Badges -->
-![GitHub followers](https://img.shields.io/github/followers/kehan-hansala?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/kehan-hansala?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=kehan-hansala&color=blue)
-
-<!-- GitHub Profile Summary Cards -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kehan-hansala&theme=github_dark)
-
-
+## 🌍 Most used languages
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kehan-hansala&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 
 

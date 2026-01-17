@@ -34,11 +34,6 @@ Feel free to reach out or follow me on these platforms! 😄
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kehan)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thebinarybrain)
 
-## 🎮 Fun with Stats Dynamic Charts
-
-Check out my dynamic stats, achievements, and skills!
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&langs_count=10&theme=gruvbox)
 
 ## 🌍 Most used languages
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />

@@ -40,7 +40,8 @@ Check out my dynamic stats, achievements, and skills!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&langs_count=10&theme=gruvbox)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kehan-hansala&theme=radical)
+![Snake animation](https://raw.githubusercontent.com/kehan-hansala/kehan-hansala/output/github-contribution-grid-snake.svg)
+
 
 ## 🧠 Learning and Growth
 

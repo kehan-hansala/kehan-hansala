@@ -40,7 +40,39 @@ Check out my dynamic stats, achievements, and skills!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&langs_count=10&theme=gruvbox)
 
-![Snake animation](https://raw.githubusercontent.com/kehan-hansala/kehan-hansala/output/github-contribution-grid-snake.svg)
+<!-- Shields.io Badges -->
+![GitHub followers](https://img.shields.io/github/followers/kehan-hansala?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/kehan-hansala?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=kehan-hansala&color=blue)
+
+<!-- GitHub Profile Summary Cards -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kehan-hansala&theme=github_dark)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kehan-hansala&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=kehan-hansala&theme=dark)
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+<div align="center">
+
+
 
 
 ## 🧠 Learning and Growth

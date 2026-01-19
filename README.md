@@ -22,7 +22,7 @@ I work with various programming languages and tools. Here's what I love using:
 ## 📈 GitHub Activity
 
 ### Contributions in the last year:
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kehan-hansala&theme=default)
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kehan-hansala&theme=dark)
 
 ---
 

@@ -18,7 +18,7 @@ I work with various programming languages and tools. Here's what I love using:
 
 ![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,mysql,mongodb,java,springBoot,rust,vite,golang,linux)
 
-## 📈 GitHub Activity
+## 📈 GitHub  Activity
 
 ### Contributions in the last year:
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kehan-hansala&theme=dark)

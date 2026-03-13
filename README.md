@@ -25,7 +25,7 @@ I work with various programming languages and tools. Here's what I love using :
 
 ---
 
-## 🌍 Let's Connect!
+## 🌍 Let's Connect
 Feel free to reach out or follow me on these platforms 😄
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:kehanjayaweera@gmail.com)

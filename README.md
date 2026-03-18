@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 ### 🛠️ Technologies & Tools
 
-I work with various programming languages and tools. Here's what I love using :
+I work with various programming languages and tools. Here's what I love using:
 
 ![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,mysql,mongodb,java,springBoot,rust,vite,golang,linux)
 

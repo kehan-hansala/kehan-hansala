@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 - 🌱  currently learning Fullsatack Technology
 - 📝 **If it work Don't Touch IT**
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Statss
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kehan-hansala&theme=github_dark" alt="Stats" />
 
 ### 🛠️ Technologies & Tools

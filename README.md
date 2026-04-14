@@ -1,7 +1,7 @@
 
 # Hi,I'm kehan Hansala 👋
 
-Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about Build Some Creative one. Let's make the web a better place! 🚀
+Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about Build Some Creative one. Let's make the web a better place 🚀
 
 # 🌟 About Me
 

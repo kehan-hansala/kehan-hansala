@@ -21,12 +21,6 @@ I work with various programming languages and tools. Here's what I love using:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kehan-hansala&show_icons=true&theme=tokyonight&line_height=27" alt="kehan's github stats"/>
 </a>
 
-## 📊 Top Languages 
-<a href="https://github.com/kehan-hansala">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&theme=tokyonight"/>
-</a>
-
-
 ## 📈 GitHub  Activity
 
 ### Contributions in the last year:
@@ -43,8 +37,10 @@ Feel free to reach out or follow me on these platforms 😄
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kehanHz)
 
 
-## 🌍 Most used languages
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kehan-hansala&theme=github_dark" alt="Repos per Language" />  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kehan-hansala&theme=github_dark" alt="Most Commit Language" />
+## 📊 Top Languages 
+<a href="https://github.com/kehan-hansala">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&theme=tokyonight"/>
+</a>
 
 
 ## 🌍 Commits

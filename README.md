@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 <a href="https://github.com/kehan-hansala">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kehan-hansala&show_icons=true&theme=tokyonight&line_height=27" alt="kehan's github stats"/>
 </a>
-### 🛠️ Technologies & Tools
 
+### 🛠️ Technologies & Tools
 I work with various programming languages and tools. Here's what I love using:
 
 ![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,mysql,mongodb,java,springBoot,rust,vite,golang,linux,windows)

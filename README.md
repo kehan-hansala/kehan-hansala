@@ -17,8 +17,9 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 ## 📊 Top Languages 
 <a href="https://github.com/kehan-hansala">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&theme=tokyonight" />
-  </a>
-  
+</a>
+<br>
+
 ### 🛠️ Technologies & Tools
 I work with various programming languages and tools. Here's what I love using:
 

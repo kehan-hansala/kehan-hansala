@@ -9,6 +9,13 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 - 🌱  currently learning Fullsatack Technology
 - 📝 **If it work Don't Touch IT**
 
+
+## 🛠️ Technologies & Tools
+
+I work with various programming languages and tools. Here's what I love using:
+![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,mysql,mongodb,java,springBoot,rust,vite,golang,linux,windows)
+
+
 ## 📊 My GitHub Statss
 <a href="https://github.com/kehan-hansala">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kehan-hansala&show_icons=true&theme=tokyonight&line_height=27" alt="kehan's github stats"/>
@@ -17,12 +24,8 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 ## 📊 Top Languages 
 <a href="https://github.com/kehan-hansala">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kehan-hansala&theme=tokyonight"/>
-</a> <br>
+</a>
 
-## 🛠️ Technologies & Tools
-
-I work with various programming languages and tools. Here's what I love using:
-![Technologies](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,postgres,git,docker,angular,mysql,mongodb,java,springBoot,rust,vite,golang,linux,windows)
 
 ## 📈 GitHub  Activity
 

@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I’m a **Fullstack Developer** passionate about B
 
 # 🌟 About Me
 
-- 🎓  computer science from vauniya University
-- 🌱  currently learning Fullsatack Technology
+- 🎓 computer science from vauniya University
+- 🌱 currently learning Fullsatack Technology
 - 📝 **If it work Don't Touch IT**
 
 
